@@ -9,7 +9,7 @@ using Microsoft.Bot.Builder.Luis.Models;
 
 namespace Microsoft.Bot.Sample.HelpBot
 {
-    [LuisModel("your Luis ID", "your Luis key")]
+    [LuisModel("0d4ff6ff-a923-4939-a660-306b9e12d0d0", "a3354675-39d5-41be-9b17-46381a0ec358")]
     [Serializable]
     public class HelpBotDialog : LuisDialog<object>
     {
