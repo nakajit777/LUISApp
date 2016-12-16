@@ -76,3 +76,42 @@ C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\zh-hans\Microsoft.Bot.Builder.resources.dl
 C:\dev\GITHUB\BOT\LUISapp\LUISapp\obj\Release\LUISapp.csprojResolveAssemblyReference.cache
 C:\dev\GITHUB\BOT\LUISapp\LUISapp\obj\Release\Bot Application1.dll
 C:\dev\GITHUB\BOT\LUISapp\LUISapp\obj\Release\Bot Application1.pdb
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Bot Application1.dll.config
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Bot Application1.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Bot Application1.pdb
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Autofac.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Chronic.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Microsoft.Bot.Builder.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Microsoft.Bot.Connector.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Newtonsoft.Json.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\System.Net.Http.Formatting.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\System.Web.Http.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\System.Web.Http.WebHost.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Autofac.xml
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Microsoft.Bot.Builder.xml
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Microsoft.Bot.Connector.xml
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\Newtonsoft.Json.xml
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\System.Net.Http.Formatting.xml
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\System.Web.Http.xml
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\System.Web.Http.WebHost.xml
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\obj\Release\LUISapp.csprojResolveAssemblyReference.cache
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\obj\Release\Bot Application1.dll
+C:\Users\tnakajima\Source\Repos\LUISApp\LUISapp\obj\Release\Bot Application1.pdb
